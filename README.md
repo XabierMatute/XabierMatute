@@ -16,7 +16,7 @@
 
 
 
-- 🔭 I'm open to participating in an interesting project.
+- 🔭 I'm open to participate in interesting projects.
 - 🌱 I’m currently learning C even more and looking forward learning a little bit of assembly language.
 - 💬 Feel free to ask me about my projects or my experience at 42.
 - 😄 Pronouns: He/him
