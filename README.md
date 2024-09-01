@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hello there 👋
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Student+at+42+school+|+Software+Engineer%3BAlways+learning+new+things&center=true&width=500&height=50"></a>
+</p>
+
 <p align="center">
   <a href='https://www.linkedin.com/in/xabier-matute/' target="_blank">
     <img alt='Linkedin' src='https://img.shields.io/badge/LinkedIn-100000?style=flat&logo=Linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2'/>
