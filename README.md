@@ -22,7 +22,7 @@
 - 😄 Pronouns: He/him
 - 📪 Mail: xabier.matute@protonmail.com
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XabierMatute&layout=compact&size_weight=0.5&count_weight=0.5&hide=Objective-C&hide=TeX)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XabierMatute&layout=compact&size_weight=0.5&count_weight=0.5&hide=Objective-C,TeX)
 
 Here is a very humble mural of tecnologies I'm familiar with:
 
